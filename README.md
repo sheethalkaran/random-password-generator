@@ -1,4 +1,4 @@
-# Random-Password-Generator
+# Random Password Generator
 A simple and responsive password generator web app that allows users to create secure, customizable passwords.
 
 ## Features
@@ -9,7 +9,16 @@ A simple and responsive password generator web app that allows users to create s
 - Show/hide password visibility  
 - Password strength indicator  
 
+## Screenshots
+<p align="center">
+  <img src="screenshot/dark.png" alt="Dark Theme" width="45%" style="margin-right:10px;">
+  <img src="screenshot/light.png" alt="Light Theme" width="45%">
+</p>
+
 ## Tech Used
 - HTML  
 - CSS  
 - JavaScript  
+
+## Note
+This is a frontend-only project with no external libraries or frameworks.
