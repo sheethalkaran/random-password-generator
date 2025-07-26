@@ -11,8 +11,8 @@ A simple and responsive password generator web app that allows users to create s
 
 ## Screenshots
 <p align="center">
-  <img src="screenshot/dark.png" alt="Dark Theme" width="45%" style="margin-right:10px;">
-  <img src="screenshot/light.png" alt="Light Theme" width="45%">
+  <img src="RandomPassword/screenshot/dark.png" alt="Dark Theme" width="45%" style="margin-right:10px;">
+  <img src="RandomPassword/screenshot/light.png" alt="Light Theme" width="45%">
 </p>
 
 ## Tech Used
