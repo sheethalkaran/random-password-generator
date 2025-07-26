@@ -10,7 +10,8 @@ A simple and responsive password generator web app that allows users to create s
 - Password strength indicator  
 
 ## Screenshots
-![Dark Theme](RandomPassword/screenshot/dark.png)
+<img src="RandomPassword/screenshot/dark.png" alt="Dark Theme" width="400">
+
 
 ## Tech Used
 - HTML  
